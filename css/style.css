@@ -47,4 +47,13 @@ h1{
     font-size: 8px;
     text-align: left;
 }
-
+.parf {
+    background-color: dodgerblue;	    
+    list-style:none;
+    width: 70%;	
+    display: flex;	
+    flex-direction: row;	
+    flex-wrap: wrap;	
+    justify-content: center;	
+    align-items: center;
+}
